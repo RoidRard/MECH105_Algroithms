@@ -1,0 +1,7 @@
+These Algorithms find the Integrals of functions and data sets alike
+
+Anint is the only function that finds the analytical integral, it is actually just the built in integral function that
+is combined in a function that makes it a little more esthetically pleasing in the sense that it also shows the 
+function of the integral of the function.
+
+The other algorithms employ numerical methods to essentially guess the best integral
