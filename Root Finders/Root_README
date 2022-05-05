@@ -1,0 +1,25 @@
+These algorithms find the roots of functions
+
+
+There are two closed methods
+require two guess points
+
+root_ator_rdstr
+This algorithm employs bisection
+
+root_ator
+this algorithm employs false point
+
+root_inator
+this is a failed algorithm. I tried to combine bisection and false point to get a fast and accurate root finding method
+
+The rest are open methods
+
+new_rap
+Newton-Raphson
+
+root_fp
+fixed point
+
+root_sec
+secant method
