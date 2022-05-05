@@ -1,0 +1,6 @@
+These algorithms are used to find the derivative, or the instantaneous rate of change of a function, these are only analytical
+
+
+derive, is a cruwd first attempt that can only find the value of the first order derivative of a function
+
+derive_markii is a masterpiece that can find anyorder derivative of a function, requires sims, it also shows the derivative function
