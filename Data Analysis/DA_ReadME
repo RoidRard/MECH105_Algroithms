@@ -1,0 +1,10 @@
+Thes algorithms analyze data in the form of vectors.
+
+
+Vstat can take up to three vectors and gives all the statistics of the individual vectors (mean, median, mode, range, standard deviation, etc)
+
+linearRegression takes two vectors and finds the linear line of best fit
+
+Cfit takes two vectors and uses Vstat for some of the calculation, but it spits out the linear line of best fit, the power curve of
+best fit, the logarithmic curve of best fit and the polynomial curve of best fit. For the polynomial curve of best fit you can choose
+the preffered order of the polynomial. All the lines of best fit are accompanied with r^2 which relates to they accuracy.
